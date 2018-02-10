@@ -1,3 +1,4 @@
+## Reflections - Lesson 1
 `Q:` How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 `A:` viewing a diff between two versions of a file helps find bugs 
